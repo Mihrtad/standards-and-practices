@@ -68,6 +68,7 @@ Format:
 | Anna Mach | [amach](https://github.com/amach) ||
 | Anthony Gargiulo | [agargiulo](https://github.com/agargiulo) ||
 | Armand Halbert | [ahalbert](https://github.com/ahalbert) ||
+| Aram Paparian | [Mihrtad] (https://github.com/Mihrtad) ||
 | Arne Fostvedt | [arn-e](https://github.com/arn-e) ||
 | Ash Courchene | [Acour83](https://github.com/Acour83) ||
 | Austin Walker | [awalker4](https://github.com/awalker4) | Sophomore CS student with 2 semesters worth of Java. I also know some Python, and I'm starting to play around in C.||
